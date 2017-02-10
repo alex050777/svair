@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Flightan/svair-api.git"
+    "url": "git@github.com:alex050777/svair-api.git"
   },
   "keywords": [
     "impots.gouv.fr",
@@ -22,9 +22,9 @@
   "author": "Jérôme Desboeufs <jerome.desboeufs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Flightan/svair-api/issues"
+    "url": "https://github.com/alex050777/svair-api/issues"
   },
-  "homepage": "https://github.com/Flightan/svair-api",
+  "homepage": "https://github.com/alex050777/svair-api",
   "dependencies": {
     "jsdom": "^7.0.2",
     "lodash": "^3.10.1",
